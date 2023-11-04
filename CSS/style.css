@@ -1,0 +1,193 @@
+body{
+    text-align: center;
+    padding-top: 5%;
+    /* font-family: 'Pacifico', cursive; */
+    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Quicksand', sans-serif; */
+    margin: 0px;
+    
+}
+.hrline1{
+    position: relative;
+    bottom: 32px;
+   
+    
+}
+hr{
+   border-style: dotted;
+   width: 50%;
+   
+}
+#h2-execpt{
+    background-color: white;
+}
+h1{
+    margin: 2% auto 0 auto;
+    font-family: 'Pacifico', cursive; 
+    font-size: 3.75rem;
+    color: #00464b;
+}
+
+h2{
+        color: rgb(0, 70, 75);
+        background-color:  rgb(202, 255, 237);
+        width: 50%;
+        margin: auto;
+        border-radius: 10px;
+
+}
+h3{
+    color: rgb(0, 70, 75);
+
+
+}
+#undi{
+    text-decoration: underline;
+
+}
+.topcontainer{
+    position: relative;
+    padding: 0px;
+    background-color: #caffed;
+    
+
+    
+    
+ 
+}
+.middle-container{
+    position: relative;
+
+
+}
+
+.cloud1{
+    height: 100px;
+    position: relative;
+    left: 10%;
+}
+.cloud2{
+    position: absolute;
+    height: 100px;
+    left: 30%;
+
+}
+.mountain{
+    height: 400px;
+    position: relative;
+    top:0.3125rem;
+}
+.profilepic{
+    height: 300px;
+}
+
+.skills{
+    position: relative;
+   
+}
+
+.skill-row{
+    width: 50%;
+    margin: 0px auto 0px auto;
+    text-align: left;
+    position: relative;
+   
+    
+}
+
+.code-img1{
+    float: left;
+    padding-top: 25px;
+    padding-bottom: 25px;   
+}
+.code-img2{
+    float: right;
+}
+.skill1{
+    position: relative;
+    top: 30px;
+    left: 20px;
+    
+}
+#right-align{
+    position: relative;
+    right:20px;
+    top: 10px;
+}
+
+.skill2{
+    position: relative;
+    left: 5px;
+    bottom: 25px;
+
+
+}
+.clear-left{
+    clear: left;
+    text-align: justify;
+}
+.clear-right{
+    position: relative;
+    top: 5px;
+    clear: right;
+    margin-bottom: 40px;
+    text-align: justify;
+    direction: rtl;
+  
+}
+
+.txt-align-right{
+    position: relative;
+    text-align: right;
+
+}
+
+.bottom-container{
+    background-color: rgb(202, 255, 237);
+    padding: 20px 0  20px 0 ;
+    
+}
+
+.footer-link{
+    color: #04b592;
+    position: relative;
+    margin: 20px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(0, 90, 105);
+}
+
+.btn {
+    background: #00edcd;
+    background-image: -webkit-linear-gradient(top, #00edcd, #3da7ed);
+    background-image: -moz-linear-gradient(top, #00edcd, #3da7ed);
+    background-image: -ms-linear-gradient(top, #00edcd, #3da7ed);
+    background-image: -o-linear-gradient(top, #00edcd, #3da7ed);
+    background-image: linear-gradient(to bottom, #00edcd, #3da7ed);
+    -webkit-border-radius: 12;
+    -moz-border-radius: 12;
+    border-radius: 12px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .btn:hover {
+    background: #3cfcbc;
+    background-image: -webkit-linear-gradient(top, #3cfcbc, #04b592);
+    background-image: -moz-linear-gradient(top, #3cfcbc, #04b592);
+    background-image: -ms-linear-gradient(top, #3cfcbc, #04b592);
+    background-image: -o-linear-gradient(top, #3cfcbc, #04b592);
+    background-image: linear-gradient(to bottom, #3cfcbc, #04b592);
+    text-decoration: none;
+  }
+
+  .contact-me{
+    padding-bottom: 20px;
+  }
+
